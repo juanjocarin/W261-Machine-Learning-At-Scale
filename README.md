@@ -1,1 +1,1 @@
-# W261-Machine-Learning-At-Scale
+# W261 Machine Learning at Scale
